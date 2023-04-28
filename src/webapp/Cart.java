@@ -10,4 +10,7 @@ public class Cart {
 
     //deals
 //    new changes on cart
+
+    // added holiday sales
+    // sales
 }
